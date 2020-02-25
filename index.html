@@ -4,14 +4,28 @@
     <meta charset="utf-8">
     <title>OH Form</title>
     <link rel="stylesheet" href="https://s.pageclip.co/v1/pageclip.css" media="screen">
+    <link rel="stylesheet" href="C:\Users\J_Dun\Documents\GitHub\johndunaske.github.io\main.css">
   </head>
   <body>
-    
-    <form method="post" action="https://send.pageclip.co/YvPfUOdcmHHCMo3SPfaS6svn4Jz9CSTo/OH_Sheet">
-      <input type="text" name="name" value="Billy Jean"/>
-      <input type="text" name="email" value="billy@example.com"/>
-      <input type="submit" value="Send">
-    </form>
+    <div class="">
+      <p>CSE116 Office Hours</p>
+      <form method="post" action="https://send.pageclip.co/YvPfUOdcmHHCMo3SPfaS6svn4Jz9CSTo/OH_Sheet">
+        <label for="name">Full Name:</label>
+        <input type="text" name="name" id="name" value=""/>
+        <label for="issue">Current Issue:</label>
+        <input type="text" name="issue" id="issue" value=""/>
+        <label for="topic">Topic:</label>
+        <select id="topic" name="topic">
+          <option value="Today's Lecture Question">Today's Lecture Question</option>
+          <option value="Microwave">Microwave</option>
+          <option value="Calculator">Calculator</option>
+          <option value="Previous Lecture Question">Previous Lecture Question</option>
+          <option value="Other">Other</option>
+        </select>
+        <input type="submit" value="Send">
+      </form>
+    </div>
+
 
     <script src="https://s.pageclip.co/v1/pageclip.js" charset="utf-8"></script>
   </body>
