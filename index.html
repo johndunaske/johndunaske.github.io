@@ -1,41 +1,24 @@
-<!DOCTYPE html>
-<html lang="en" dir="ltr">
-  <head>
-    <meta charset="utf-8">
-    <title>OH Form</title>
-    <link rel="stylesheet" href="https://s.pageclip.co/v1/pageclip.css" media="screen">
-    <link rel="stylesheet" href=".\main.css">
-  </head>
-  <body>
-    <div class="">
-      <p>CSE116 Office Hours</p>
-      <form method="post" action="https://send.pageclip.co/YvPfUOdcmHHCMo3SPfaS6svn4Jz9CSTo/OH_Sheet">
-        <label for="name">Full Name:</label>
-        <input type="text" name="name" id="name" value=""/>
-        <label for="issue">Current Issue: (Minimum 69 Characters)</label>
-        <label for="issue" id="char">Character Count: 0</label>
-        <input type="text" name="issue" id="issue" value=""/>
-        <label for="topic">Topic:</label>
-        <select id="topic" name="topic">
-          <option value="Today's Lecture Question">Today's Lecture Question</option>
-          <option value="Microwave">Microwave</option>
-          <option value="Calculator">Calculator</option>
-          <option value="Previous Lecture Question">Previous Lecture Question</option>
-          <option value="Other">Other</option>
-        </select>
-        <label for="ubit" id="ubitLabel">UBIT: (NOT your person number)</label>
-        <input type="text" name="ubit" id="ubit" value=""/>
-        <input type="submit" value="Send">
+<html>
+<head>
+    <title>Bonus Points Babyyyy</title>
+    <link rel="stylesheet" type="text/css" href="style.css"/>
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap" rel="stylesheet">
+</head>
+<body onload="welcomeAlert();" onclick="cursor()">
+  <div class="container"></div>
+  <div class="image"></div>
+  <div class="header">John Dunaske</div>
+  <div class="subheader">Backend Developer</div>
+  <div class="bodytext"><br>Computer Science Teaching Assistant<br>
+    FIRST Robotics Alumni (FRC)<br>
+    SUNY University At Buffalo 2022 Graduate<br><br>
+    Fluent in: Python, Scala, JavaScript, and Java<br><br>
+    Email: johnduna@buffalo.edu</div>
+  <div class="linked" onclick="openLink()"></div>
+  <div class="github"></div>
+  <div class="resume"></div>
 
-        <script type="text/javascript">
-          document.getElementById('issue').onkeyup = function() {
-            document.getElementById('char').innerHTML = "Character Count: " + document.getElementById('issue').value.length
-          }
-        </script>
-      </form>
-    </div>
-
-
-    <script src="https://s.pageclip.co/v1/pageclip.js" charset="utf-8"></script>
-  </body>
+  <script src="functions.js"></script>
+</body>
 </html>
