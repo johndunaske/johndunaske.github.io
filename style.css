@@ -2,7 +2,6 @@ body {
   margin: 0px;
   padding: 0px;
   background: linear-gradient(115deg, #EB5757 0%, #7C4EFF 100%);
-  cursor: url("./images/cursorMe.jpg"), auto;
 }
 
 .container {
