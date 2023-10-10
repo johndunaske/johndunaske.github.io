@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0f121d92.css",
+    "main.js": "/static/js/main.330a262e.js",
+    "static/js/787.b7e5b663.chunk.js": "/static/js/787.b7e5b663.chunk.js",
+    "static/media/lobster-cyrillic-400-normal.woff2": "/static/media/lobster-cyrillic-400-normal.c1f63be72f54fbdd6050.woff2",
+    "static/media/lobster-latin-400-normal.woff2": "/static/media/lobster-latin-400-normal.a1df6431b1729a2cf046.woff2",
+    "static/media/lobster-latin-ext-400-normal.woff2": "/static/media/lobster-latin-ext-400-normal.d541f151eb0c09cc452b.woff2",
+    "static/media/lobster-cyrillic-400-normal.woff": "/static/media/lobster-cyrillic-400-normal.4e9d59fd1b28746d7f18.woff",
+    "static/media/lobster-latin-400-normal.woff": "/static/media/lobster-latin-400-normal.3f07fb5dddb953d3b41b.woff",
+    "static/media/mali-latin-400-normal.woff": "/static/media/mali-latin-400-normal.220f8a720e367d5cbd0b.woff",
+    "static/media/mali-latin-400-normal.woff2": "/static/media/mali-latin-400-normal.5f00120757d6a905c190.woff2",
+    "static/media/mali-thai-400-normal.woff": "/static/media/mali-thai-400-normal.b04c31037fc08a9a2d1a.woff",
+    "static/media/lobster-latin-ext-400-normal.woff": "/static/media/lobster-latin-ext-400-normal.9bccc521780e0ca3bcfd.woff",
+    "static/media/mali-latin-ext-400-normal.woff": "/static/media/mali-latin-ext-400-normal.affa63f1d0f482f74347.woff",
+    "static/media/lobster-cyrillic-ext-400-normal.woff2": "/static/media/lobster-cyrillic-ext-400-normal.6c9e9690ad824a8badb4.woff2",
+    "static/media/mali-thai-400-normal.woff2": "/static/media/mali-thai-400-normal.e52e310ca83fb8c3daa4.woff2",
+    "static/media/lobster-vietnamese-400-normal.woff2": "/static/media/lobster-vietnamese-400-normal.cbe7acb56e6ff0a3d26b.woff2",
+    "static/media/mali-latin-ext-400-normal.woff2": "/static/media/mali-latin-ext-400-normal.db2fbd999c7575ce3e9c.woff2",
+    "static/media/lobster-cyrillic-ext-400-normal.woff": "/static/media/lobster-cyrillic-ext-400-normal.9986664c945d27ff14d2.woff",
+    "static/media/lobster-vietnamese-400-normal.woff": "/static/media/lobster-vietnamese-400-normal.279848573b662b1b2e5e.woff",
+    "static/media/mali-vietnamese-400-normal.woff": "/static/media/mali-vietnamese-400-normal.4205da6f623b693a9304.woff",
+    "static/media/mali-vietnamese-400-normal.woff2": "/static/media/mali-vietnamese-400-normal.eaa1efc0d8daea5a3d62.woff2",
+    "index.html": "/index.html",
+    "main.0f121d92.css.map": "/static/css/main.0f121d92.css.map",
+    "main.330a262e.js.map": "/static/js/main.330a262e.js.map",
+    "787.b7e5b663.chunk.js.map": "/static/js/787.b7e5b663.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f121d92.css",
+    "static/js/main.330a262e.js"
+  ]
+}
