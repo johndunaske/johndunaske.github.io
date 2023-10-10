@@ -1,0 +1,32 @@
+body {
+    background-image: linear-gradient(to right, #00728B , #055AFF);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+p {
+    color: white;
+}
+
+.subtext {
+    font-family: "Mali";
+    font-size: 96px;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+    height: 40%;
+    width: 100%;
+}
+
+.answer {
+    font-family: "Lobster";
+    font-size: 256px;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+    height: 40%;
+    width: 100%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
